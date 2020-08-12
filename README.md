@@ -1,23 +1,23 @@
-### Hi there 👋
-
 ![alt text](https://github.com/adamkona/adamkona/blob/master/assets/banner.png?raw=true)
 
 
-<!--
-**adamkona/adamkona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Adam</h1>
+<h3 align="center">A curious developer from London</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamkona" alt="adamkona" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **unwind**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adamkona&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- 👨‍💻 All of my projects are available at [https://github.com/adamkona](https://github.com/adamkona)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamkona)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **adam.kona4@gmail.com**
+
+- ⚡ Fun fact **I really dislike chocolate**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamkona&layout=compact&hide=html" alt="adamkona" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamkona&show_icons=true&count_private=true" alt="adamkona" /></p>
+
+<p align="center">
+<a href="https://dribbble.com/adam kona" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="adam kona" height="30" width="30" /></a>
+</p>
