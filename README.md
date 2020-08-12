@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamkona" alt="adamkona" /> </p>
 
+- 🎓 Currently studying at the University of Birmingham
+
 - 🔭 I’m currently working on **unwind**
 
 - 👨‍💻 All of my projects are available [here on github](https://github.com/adamkona)
