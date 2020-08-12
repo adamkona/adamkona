@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **unwind**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adamkona](https://github.com/adamkona)
+- 👨‍💻 All of my projects are available [here on github](https://github.com/adamkona)
 
 - 📫 How to reach me **adam.kona4@gmail.com**
 
