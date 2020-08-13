@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A curious developer from London</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamkona" alt="adamkona" /> </p>
 
 - 🎓 Currently studying at the University of Birmingham
 
