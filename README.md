@@ -7,7 +7,7 @@
 
 - 🎓 Currently studying at the University of Birmingham
 
-- 🔭 I’m currently working on learning **React**
+- 🔭 I’m currently working on learning **something new**
 
 - 👨‍💻 All of my projects are available [here on github](https://github.com/adamkona)
 
