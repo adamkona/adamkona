@@ -1,5 +1,3 @@
-![alt text](https://github.com/adamkona/adamkona/blob/master/assets/banner.png?raw=true)
-
 
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A curious developer from London</h3>
