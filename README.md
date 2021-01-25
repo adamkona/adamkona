@@ -20,4 +20,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamkona&layout=compact&hide=html" alt="adamkona" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamkona&show_icons=true&count_private=true" alt="adamkona" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamkona&show_icons=true&count_private=true" alt="adamkona" /></p> -->
